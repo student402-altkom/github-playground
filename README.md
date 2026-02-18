@@ -4,3 +4,4 @@ test input
 AGAIN ! 
 AGAIN AGAIN AGAIN!
 AGAIN?
+A bug in the code ?
